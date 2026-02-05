@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working as a Senior Software Engineer based in USA TX
+👋 Hi there! I’m a Senior Software Engineer based in Texas, USA, with over 12 years of experience building scalable backend systems. I specialize in Java (8–17+), Spring Boot, and microservices, with strong hands-on experience in distributed systems, event-driven architectures, and cloud-native development. I enjoy designing reliable systems, solving real-world problems, and continuously learning modern technologies.
 
 
 ## 🌐 Socials:
@@ -13,10 +13,7 @@ I am Currently working as a Senior Software Engineer based in USA TX
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaichaitanya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nagasaichaitanya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue?logo=github)](https://github.com/nagasaichaitanya?achievement=pull-shark&tab=achievements)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nagasaichaitanya&limit=5&theme=dark&combine_all_yearly_contributions=true)
